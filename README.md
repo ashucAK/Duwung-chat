@@ -1,14 +1,6 @@
-Real Time Chat App | JWT, Socket.io
+DUWUNG Chat App | JWT, Socket.io
 Some Features:
-
--   🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
--   🎃 Authentication && Authorization with JWT
--   👾 Real-time messaging with Socket.io
--   🚀 Online user status (Socket.io and React Context)
--   👌 Global state management with Zustand
--   🐞 Error handling both on the server and on the client
--   ⭐ At the end Deployment like a pro for FREE!
--   ⏳ And much more!
+Project utilizes a robust tech stack including MERN, Socket.io, TailwindCSS, and Daisy UI. It features JWT for secure authentication, real-time messaging with Socket.io, online user status tracking, and Zustand for global state management. Error handling is implemented on both server and client sides, and deployment is made simple with free hosting options.
 
 ### Setup .env file
 
