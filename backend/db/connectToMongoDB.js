@@ -10,4 +10,3 @@ const connectToMongoDB = async () => {
 };
 
 export default connectToMongoDB;
-process.env.MONGO_DB_URI
